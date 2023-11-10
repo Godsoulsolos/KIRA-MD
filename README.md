@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@HSCLAN">
-    <img alt="Kira docs" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V594u7Wsu3_WvJ8oCx8LHznYAQvoYNoYOQ&usqp=CAU">
+    <img alt="Kira docs" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKfzLfosRr9pqWHCZt23IuTwzAalMTG0kzg&usqp=CAU">
   </a>
 </p>
   
@@ -44,19 +44,20 @@
 ---
 1.  ***Get [`SESSION ID 1`](https://replit.com/@Looneyffkun/KIRA-Md?v=1), [`SESSION ID by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
-3.  ***Click [`FORK`](https://github.com/Godsoulsolos/Kira-Md/fork) and `Star ⭐ Repository` if you Like that Bot.***
+3.  ***Click [`FORK`](https://github.com/Godsoulsolos/KIRA-MD/fork) and `Star ⭐ Repository` if you Like that Bot.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/SuhailTechInfo/Suhail-Md)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Godsoulsolos/KIRA-MD)***
+7.  ***Deploy on [`Replit`](https://replit.com/github/Godsoulsolos/KIRA-MD)***
 
 ##
 
 
 ***Use this Public MongoDb Key, If you dont have.!***
 ```
-mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://kira:kira@cluster0.5cmlsbz.mongodb.net/?retryWrites=true&w=majority
+
 ```
 ---
 
@@ -68,6 +69,6 @@ mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true
 - [Sam Pamday](https://github.com/Sampandey001) 
 
 
-The Suhail_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The Kira_Md is made available under the [GPL-3 license](https://github.com/Godsoulsolos/KIRA-MD/blob/main/LICENCE).
 
-##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
+##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Godsoulsolos/KRA-MD)
