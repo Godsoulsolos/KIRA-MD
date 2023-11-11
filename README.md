@@ -1,7 +1,7 @@
  <h1 align="center"> Kira Md </h1> 
 <p align="center"> Welcome to Kira Md WhatsApp specialised bot, It is designed to bring a whole new level of excitement to your boring WhatsApp use.
 I was built by Godsoul and coded by Excel. /p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+KIRA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GODSOUL;CODED+BY+EXCEL;PUBLIC+RELESED; ...;TEAM 𝙸𝚉𝚄𝙺𝚄-𝙼𝙳." alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://youtube.com/@HSCLAN">
     <img alt="Kira docs" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKfzLfosRr9pqWHCZt23IuTwzAalMTG0kzg&usqp=CAU">
