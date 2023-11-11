@@ -81,6 +81,10 @@
     "description": "Put your own Mongodb key. Its a secret String for Mongodb Connection.(Required)",
     "value": "mongodb+srv://kira:kira@cluster0.5cmlsbz.mongodb.net/?retryWrites=true&w=majority"
   },
+"THEME": {
+    "description": "Put the theme name you want to use. Avilable themes are KIRA,ZEROTWO,NEZUKO,LUFFY,GOKU,GENOS,FRIDAY and many more..",
+     "value": "KIRA"
+  },
   "MODE": {
     "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
     "value": "private"
