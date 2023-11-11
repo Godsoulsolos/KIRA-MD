@@ -1,5 +1,6 @@
  <h1 align="center"> Kira Md </h1> 
-<p align="center"> Welcome to Kira Md WhatsApp specialised bot, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Welcome to Kira Md WhatsApp specialised bot, It is designed to bring a whole new level of excitement to your boring WhatsApp use.
+I was built by Godsoul and coded by Excel. /p>
 
 <p align="center">
   <a href="https://youtube.com/@HSCLAN">
